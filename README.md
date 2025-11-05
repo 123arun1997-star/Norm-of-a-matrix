@@ -38,10 +38,16 @@ print(InfinityNorm)
 
 ## Output:
 ### 1-Norm of a Matrix
-![1-Norm](CODE_page-0001.jpg)
+
+<img width="1241" height="1755" alt="image" src="https://github.com/user-attachments/assets/79302393-7faf-4527-a2e7-7e57408e83b9" />
+
 ### 2-Norm of a Matrix
-![2-Norm](CODE_page-0002.jpg)
+
+<img width="1241" height="1755" alt="image" src="https://github.com/user-attachments/assets/bda8273b-ff70-4200-8a59-c54cfe4b723e" />
+
 ### Infinity Norm of a Matrix
-![3-Norm](CODE_page-0003.jpg)
+
+<img width="1241" height="1755" alt="image" src="https://github.com/user-attachments/assets/418d082a-d5e4-4a6a-9d6b-69044dfd4876" />
+
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
